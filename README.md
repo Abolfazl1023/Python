@@ -1,5 +1,5 @@
 # Python_Projects
-### This repository is mainly about small projects using numpy, scipy and pandas libraries. Mathematical, Control Engineering and different Projects Can be found here!
+### This repository is mainly about sample projects using different Python libraries such as numpy, pandas, sklearn, scipy, and ect. Math, Control Engineering, Machine Learning and different projects are available here!
 
 ### Thank you for following my works!
 #### Feel Free to Contact me: roostaeiabolfazl@gmail.com
